@@ -28,18 +28,17 @@ This project aims to enhance the visibility and impact of the Tironui Music Trus
 
 ## Results
 
-- **Engagement Metrics:** [Briefly summarize improvements in website and social media engagement metrics, if applicable.]
-- **Donation Pathway Optimization:** [Describe any increases in donations or improvements in the donation process, if applicable.]
-- **Community Growth:** [Highlight any notable growth in the Trust's online community, if applicable.]
-
+- **Engagement Metrics:** 
+- **Donation Pathway Optimization:** 
+- **Community Growth:**
 ## Challenges and Solutions
 
-- **Challenge 1:** [Describe a challenge encountered, e.g., integrating analytics tools without direct website access.]
-  - **Solution:** [Explain how you addressed the challenge, possibly through indirect analytics methods or collaboration with website administrators.]
+- **Challenge 1:** 
+  - **Solution:** 
 
-- **Challenge 2:** [Detail another challenge, such as interpreting data to make actionable recommendations.]
-  - **Solution:** [Describe the solution, such as utilizing specific data analysis techniques or consulting with experts.]
-
+- **Challenge 2:** 
+  - **Solution:**
+    
 ## Conclusion
 
 This project has not only provided valuable insights into the effectiveness of the Tironui Music Trust's online presence but has also offered actionable strategies to enhance engagement and support for their mission. Through the application of data analytics and web development skills, we've laid the groundwork for future marketing efforts to build upon.
@@ -50,5 +49,5 @@ I would like to extend my gratitude to the Tironui Music Trust team for their su
 
 ## How to Contribute
 
-For those interested in contributing to the Tironui Trust Marketing Project, please [insert contact method or GitHub instructions for contributions here].
+For those interested in contributing to the Tironui Trust Marketing Project, please email **atomichabitsforlife@gmail.com**
 
