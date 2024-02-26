@@ -8,7 +8,7 @@ We welcome contributions to the Tironui Trust Project! Whether you're interested
 
 2. **Clone your fork** to your local machine:
    ```
-   git clone https://github.com/yourusername/tironui-trust-project.git
+   git clone https://github.com/irinagetman1973/Tironui-Music-Trust-Marketing-Project
    ```
 
 3. **Create a branch** for your changes:
