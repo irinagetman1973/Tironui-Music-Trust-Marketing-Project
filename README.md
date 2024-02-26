@@ -28,15 +28,15 @@ This project aims to enhance the visibility and impact of the Tironui Music Trus
 
 ## Results
 
-- **Engagement Metrics:** 
-- **Donation Pathway Optimization:** 
-- **Community Growth:**
+- **Engagement Metrics:** [to be updated]
+- **Donation Pathway Optimization:** [to be updated]
+- **Community Growth:**[to be updated]
 ## Challenges and Solutions
 
-- **Challenge 1:** 
+- **Challenge 1:** [to be updated]
   - **Solution:** 
 
-- **Challenge 2:** 
+- **Challenge 2:** [to be updated]
   - **Solution:**
     
 ## Conclusion
