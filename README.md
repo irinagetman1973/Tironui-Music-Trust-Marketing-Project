@@ -1,6 +1,7 @@
 
 # Tironui Trust Marketing Project
-![Alt text for the image](T6.jpg "Optional title here")
+#![Alt text for the image](T6.jpg "Optional title here")
+<img src="T6.jpg" width="200" alt="Descriptive text about the image">
 
 ## Introduction
 
