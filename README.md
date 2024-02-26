@@ -1,5 +1,6 @@
 
 # Tironui Trust Marketing Project
+![Alt text for the image](T6.jpg "Optional title here")
 
 ## Introduction
 
